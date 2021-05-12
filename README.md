@@ -1,6 +1,6 @@
 # Klasa
 
-[![Discord](https://discordapp.com/api/guilds/339942739275677727/embed.png)](https://discord.gg/FpEFSyY)
+[![Discord](https://discord.com/api/guilds/339942739275677727/embed.png)](https://discord.gg/FpEFSyY)
 [![npm](https://img.shields.io/npm/v/klasa.svg?maxAge=3600)](https://www.npmjs.com/package/klasa)
 [![npm](https://img.shields.io/npm/dt/klasa.svg?maxAge=3600)](https://www.npmjs.com/package/klasa)
 [![Build Status](https://dev.azure.com/dirigeants/klasa/_apis/build/status/dirigeants.klasa?branchName=master)](https://dev.azure.com/dirigeants/klasa/_build/latest?definitionId=1&branchName=master)
